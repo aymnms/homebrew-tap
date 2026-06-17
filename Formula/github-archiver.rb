@@ -1,8 +1,8 @@
 class GithubArchiver < Formula
   desc "Mirror GitHub repositories to another account or organization"
   homepage "https://github.com/aymnms/github-archiver"
-  url "https://github.com/aymnms/github-archiver/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0ae9480fa2b6312bc9c1a8a67c014be8bef3f51907b6dba52b078ffa77b8d3d9"
+  url "https://github.com/aymnms/github-archiver/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "55f6cfd32240716a8b138f5e2f175ffb22ffbd5db9861631599b244cf95e3737"
   license "MIT"
 
   def install
